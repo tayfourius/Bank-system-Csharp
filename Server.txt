@@ -1,0 +1,43 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.IO;
+using System.Net;
+using System.Net.Sockets;
+
+namespace BlahBLah
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            try
+            {
+                string word = "";
+                TcpListener Server = new TcpListener(IPAddress.Parse("127.0.0.1"),9000);
+                Server.Start();
+                TcpClient Client = Server.AcceptTcpClient();
+                NetworkStream Stream = Client.GetStream();
+                StreamReader reader = new StreamReader(Stream);
+                StreamWriter writer = new StreamWriter(Stream);
+
+                writer.WriteLine("Connected...");
+                writer.Flush();
+
+                while (word != null)
+                {
+                    word = reader.ReadLine();
+                    Console.WriteLine("Client : " + word);
+                    Console.ReadLine();
+                }
+                Client.Close();
+                Server.Stop();
+            }
+            catch
+            {
+                Console.WriteLine("Problem loading Socket...");
+            }
+        }
+    }
+}

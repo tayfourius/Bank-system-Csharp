@@ -1,0 +1,43 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.IO;
+using System.Net;
+using System.Net.Sockets;
+
+namespace Client
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            try
+            {
+                string word = "";
+                TcpClient Client = new TcpClient("127.0.0.1", 9000);
+                NetworkStream Stream = Client.GetStream();
+                StreamReader reader = new StreamReader(Stream);
+                StreamWriter writer = new StreamWriter(Stream);
+
+                word = reader.ReadLine();
+
+                Console.WriteLine("Server : " + word);
+
+                while (word != "Exit")
+                {
+                    word = Console.ReadLine();
+                    writer.WriteLine(word);
+                    writer.Flush();
+                }
+
+                Client.Close();
+
+            }
+            catch
+            {
+                Console.WriteLine("Problem Connecting ...");
+            }
+        }
+    }
+}

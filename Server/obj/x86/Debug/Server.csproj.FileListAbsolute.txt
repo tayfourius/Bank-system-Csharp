@@ -1,0 +1,42 @@
+C:\Users\Adel\Desktop\SP\Our project\Bank_system\Server\bin\Debug\Server.exe
+C:\Users\Adel\Desktop\SP\Our project\Bank_system\Server\bin\Debug\Server.pdb
+C:\Users\Adel\Desktop\SP\Our project\Bank_system\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Adel\Desktop\SP\Our project\Bank_system\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Adel\Desktop\SP\Our project\Bank_system\Server\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Adel\Desktop\SP\Our project\Bank_system\Server\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Adel\Desktop\SP\Our project\Bank_system\Server\obj\x86\Debug\Server.exe
+C:\Users\Adel\Desktop\SP\Our project\Bank_system\Server\obj\x86\Debug\Server.pdb
+C:\Users\Adel\Desktop\SP\Our project\Bank_system\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\samman\Desktop\Bank_system\Server\obj\x86\Debug\Server.exe
+C:\Users\samman\Desktop\Bank_system\Server\obj\x86\Debug\Server.pdb
+C:\Users\samman\Desktop\Bank_system\Server\bin\Debug\Server.exe
+C:\Users\samman\Desktop\Bank_system\Server\bin\Debug\Server.pdb
+C:\Users\samman\Desktop\Bank_system\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\samman\Desktop\Bank_system\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\samman\Desktop\Bank_system\Server\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\samman\Desktop\Bank_system\Server\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\samman\Desktop\Bank_system\Server\obj\x86\Debug\Server.FormOperator.resources
+C:\Users\samman\Desktop\SP-Project\Bank_system\Server\obj\x86\Debug\Server.exe
+C:\Users\samman\Desktop\SP-Project\Bank_system\Server\obj\x86\Debug\Server.pdb
+C:\Users\samman\Desktop\SP-Project\Bank_system\Server\bin\Debug\Server.exe
+C:\Users\samman\Desktop\SP-Project\Bank_system\Server\bin\Debug\Server.pdb
+C:\Users\samman\Desktop\SP-Project\Bank_system\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\samman\Desktop\SP-Project\Bank_system\Server\obj\x86\Debug\Server.FormOperator.resources
+C:\Users\samman\Desktop\SP-Project\Bank_system\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\samman\Desktop\SP-Project\Bank_system\Server\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\samman\Desktop\SP-Project\Bank_system\Server\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Adel\Desktop\Project\SP-Project\Bank_system\Server\obj\x86\Debug\Server.pdb
+C:\Users\Adel\Desktop\Project\SP-Project\Bank_system\Server\bin\Debug\Server.exe
+C:\Users\Adel\Desktop\Project\SP-Project\Bank_system\Server\bin\Debug\Server.pdb
+C:\Users\Adel\Desktop\Project\SP-Project\Bank_system\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Adel\Desktop\Project\SP-Project\Bank_system\Server\obj\x86\Debug\Server.FormOperator.resources
+C:\Users\Adel\Desktop\Project\SP-Project\Bank_system\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Adel\Desktop\Project\SP-Project\Bank_system\Server\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Adel\Desktop\Project\SP-Project\Bank_system\Server\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Adel\Desktop\Project\SP-Project\Bank_system\Server\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Adel\Desktop\Project\SP-Project\Bank_system\Server\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Adel\Desktop\Project\SP-Project\Bank_system\Server\obj\x86\Debug\Server.exe
+D:\Education Library\University\SP\Our project\SP-Project\Bank_system\Server\obj\x86\Debug\Server.exe
+D:\Education Library\University\SP\Our project\SP-Project\Bank_system\Server\obj\x86\Debug\Server.pdb
+C:\Users\Asus\Desktop\Our project\SP-Project\Bank_system\Server\obj\x86\Debug\Server.exe
+C:\Users\Asus\Desktop\Our project\SP-Project\Bank_system\Server\obj\x86\Debug\Server.pdb
